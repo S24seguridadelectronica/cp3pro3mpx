@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/cp3pro3mpx/static/css/main.27b00c82.css",
+    "main.js": "/cp3pro3mpx/static/js/main.0c6c205d.js",
+    "index.html": "/cp3pro3mpx/index.html",
+    "main.27b00c82.css.map": "/cp3pro3mpx/static/css/main.27b00c82.css.map",
+    "main.0c6c205d.js.map": "/cp3pro3mpx/static/js/main.0c6c205d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.27b00c82.css",
+    "static/js/main.0c6c205d.js"
+  ]
+}
